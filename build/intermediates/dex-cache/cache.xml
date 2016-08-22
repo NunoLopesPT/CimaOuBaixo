@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\TOSHIBA\OneDrive\cimabaixo\CimaOuBaixo\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="7a6a4099af6231afc1c8ac4272ab714a64d975d9">
+        <dex dex="C:\Users\TOSHIBA\OneDrive\cimabaixo\CimaOuBaixo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_8bb371b73738aa46bfe7c6a4e5912f89ef8b037f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\TOSHIBA\OneDrive\cimabaixo\CimaOuBaixo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="C:\Users\TOSHIBA\OneDrive\cimabaixo\CimaOuBaixo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.2.1_d3fe7532b959908eb0bbf1bced5d96098050bfdf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\TOSHIBA\OneDrive\cimabaixo\CimaOuBaixo\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="C:\Users\TOSHIBA\OneDrive\cimabaixo\CimaOuBaixo\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.2.1_7dbd30c6e0abcc3db40f63f20995d3b4990da805\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\TOSHIBA\OneDrive\cimabaixo\CimaOuBaixo\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="bf1a674706c70b75da96f3ae34f3d0ae6979cced">
+        <dex dex="C:\Users\TOSHIBA\OneDrive\cimabaixo\CimaOuBaixo\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d2500b02016960a9a9f971344ba2ba7cf22c1dac\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\TOSHIBA\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="C:\Users\TOSHIBA\OneDrive\cimabaixo\CimaOuBaixo\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.2.1_8e6a5bc0495168ba23e9e3387c133f2e1ea7ce83\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\TOSHIBA\OneDrive\cimabaixo\CimaOuBaixo\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
+        <dex dex="C:\Users\TOSHIBA\OneDrive\cimabaixo\CimaOuBaixo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-22.2.0_678d45e9b7659161b76affe099371213720879ab\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\TOSHIBA\OneDrive\cimabaixo\CimaOuBaixo\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="C:\Users\TOSHIBA\OneDrive\cimabaixo\CimaOuBaixo\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.2.1_837b1e7584d071b940e9919ff6e217d2e5b213d7\classes.dex" />
+    </item>
+
+</items>
