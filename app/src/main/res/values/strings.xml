@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Up or Down</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_game_board">Cima ou Baixo</string>
+    <string name="carta1"></string>
+    <string name="carta">1♦</string>
+
+</resources>
